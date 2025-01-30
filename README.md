@@ -51,11 +51,11 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/abdallah-mohsen-3016ba1ab" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-
+    </a>
   <a href="mailto:abdallahmohsen144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
-     </a>
+    
      <a href="https://t.me/AbdallahMohsen22">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
