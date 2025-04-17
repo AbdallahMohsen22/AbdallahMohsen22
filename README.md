@@ -5,10 +5,11 @@
 <br>
 
 ## 🙋‍♂️ About Me:
-
+- 💫 I’m a skilled Flutter developer with over 3 years of experience building cross-platform applications for Android, iOS, and web.
+  
+- 🌱 I've worked on a variety of projects, leveraging Flutter’s capabilities to deliver smooth, scalable, and high-performing apps.
+  
 - 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
-
-- 🌱 I’m currently learning **Advanced Flutter**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AbdallahMohsen22?tab=repositories)**.
 
