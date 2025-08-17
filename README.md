@@ -50,7 +50,7 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/abdallah-mohsen-3016ba1ab" target="_blank">
+    <a href="https://www.linkedin.com/in/abdallah-mohsen-112329363" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
   <a href="mailto:abdallahmohsen144@gmail.com">
