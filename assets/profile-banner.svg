@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="238" viewBox="0 0 960 238" role="img" aria-labelledby="title desc">
+  <title id="title">Abdallah Mohsen mobile engineering portfolio</title>
+  <desc id="desc">A dark slate panel with a Flutter-inspired phone interface and a soft animated signal trace.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#10192a"/>
+      <stop offset="1" stop-color="#10283c"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop stop-color="#65dcf2"/>
+      <stop offset="1" stop-color="#82aaff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#84acc8" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="panel">
+      <rect width="960" height="238" rx="22"/>
+    </clipPath>
+  </defs>
+  <style>
+    @keyframes signal {
+      from { stroke-dashoffset: 620; opacity: 0; }
+      18% { opacity: .95; }
+      82% { opacity: .95; }
+      to { stroke-dashoffset: 0; opacity: 0; }
+    }
+    .signal { opacity: 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .signal { animation: signal 3.4s .25s ease-in-out 1; }
+    }
+  </style>
+  <g clip-path="url(#panel)">
+    <rect width="960" height="238" fill="url(#background)"/>
+    <rect x="588" width="372" height="238" fill="url(#grid)"/>
+    <rect x="22" y="26" width="4" height="186" rx="2" fill="url(#accent)"/>
+    <g font-family="system-ui, sans-serif">
+      <text x="56" y="68" fill="#82d7ed" font-size="17" font-weight="700" letter-spacing="2.6">MOBILE ENGINEERING PORTFOLIO</text>
+      <text x="52" y="127" fill="#f0f7ff" font-size="55" font-weight="750">Abdallah Mohsen</text>
+      <text x="56" y="167" fill="#bdcfe2" font-size="23" font-weight="500">Flutter &amp; Dart  ·  iOS &amp; Android</text>
+    </g>
+    <path d="M56 194H516l15-17 17 17h97l15-17 17 17h33" fill="none" stroke="#5680a2" stroke-opacity=".55" stroke-width="2" stroke-linejoin="round"/>
+    <path class="signal" d="M56 194H516l15-17 17 17h97l15-17 17 17h33" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="85 760"/>
+    <g transform="translate(744 25)">
+      <rect width="120" height="188" rx="24" fill="#111d31" stroke="#6c9fc4" stroke-width="2"/>
+      <rect x="9" y="9" width="102" height="170" rx="18" fill="#162c43"/>
+      <rect x="42" y="16" width="36" height="5" rx="2.5" fill="#7698b7"/>
+      <rect x="23" y="42" width="74" height="59" rx="12" fill="#20415d"/>
+      <path d="m41 72 10 9 22-22m2 18h6" fill="none" stroke="#7ee0f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="23" y="113" width="74" height="8" rx="4" fill="#70bbdf"/>
+      <rect x="23" y="130" width="56" height="7" rx="3.5" fill="#4d7196"/>
+      <rect x="23" y="145" width="66" height="7" rx="3.5" fill="#3b5b7d"/>
+      <rect x="41" y="165" width="38" height="4" rx="2" fill="#7698b7"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="959" height="237" rx="21.5" fill="none" stroke="#40617e"/>
+</svg>

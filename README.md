@@ -1,77 +1,124 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdallah+Mohsen!+😎;" />
-</div>
+# Abdallah Mohsen
 
-<br>
+![Animated mobile portfolio banner with a stylized phone and signal trace](assets/profile-banner.svg)
 
-## 🙋‍♂️ About Me:
-- 💫 I’m a skilled Flutter developer with over 3 years of experience building cross-platform applications for Android, iOS, and web.
-  
-- 🌱 I've worked on a variety of projects, leveraging Flutter’s capabilities to deliver smooth, scalable, and high-performing apps.
-  
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
+**Senior Flutter Developer · Mobile Engineer · iOS & Android**
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AbdallahMohsen22?tab=repositories)**.
+I’m a mobile engineer based in Egypt with 4+ years of experience building and shipping Flutter apps. I work across feature development, native integrations, automated testing, and App Store and Google Play releases.
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+> **Open to Senior Flutter Developer and Senior Mobile Engineer roles. Available to start immediately.**
 
-## 🚀 Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
-</div>
+[Portfolio][portfolio] · [LinkedIn][linkedin] · [Email][email]
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+[Featured apps](#featured-apps) · [Engineering toolkit](#engineering-toolkit) · [Public Flutter code](#public-flutter-code)
 
-## 📊 My Stats:
+## Featured apps
 
-<p align="center">
-    <a href="https://github.com/AmmarAgeeza/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AbdallahMohsen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMohsen22&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/AbdallahMohsen/github-readme-stats"><img alt="AbdallahMohsen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdallahMohsen22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AbdallahMohsen/github-readme-stats"><img alt="AbdallahMohsen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMohsen22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+Expand a project to see the workflows I worked on and its App Store listing where available.
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+### Real-time communication
 
-## 🤝 Connect With Me:
+<details open>
+<summary><strong>Snapcalls</strong> · Voice, video &amp; chat</summary>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/abdallah-mohsen-112329363" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:abdallahmohsen144@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+Built voice and video calling, chat, and group conferencing. Integrated native iOS CallKit for the incoming call experience.
 
-</div>
+[View Snapcalls on the App Store][snapcalls]
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+</details>
 
-## 💜 Views and Followers:
+### Healthcare
 
-<a href="https://github.com/AbdallahMohsen22/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AbdallahMohsen22">
-</a>
-<a href="https://github.com/AbdallahMohsen22?tab=followers"><img src="https://img.shields.io/github/followers/AbdallahMohsen22?label=Followers&style=social" alt="GitHub Badge"></a>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
-</h3>
+<details>
+<summary><strong>Hospedale</strong> · Patient app</summary>
 
-<br/>
+Worked on the patient side of the healthcare platform, including booking appointments, coordinating visits, and communicating with providers.
+
+[View Hospedale on the App Store][hospedale]
+
+</details>
+
+<details>
+<summary><strong>Hospedale Provider</strong> · Appointments &amp; medical reports</summary>
+
+Worked on the companion app for healthcare providers, including appointment management, patient visit tracking, and medical report workflows.
+
+[View Hospedale Provider on the App Store][hospedale-provider]
+
+</details>
+
+### Commerce & real estate
+
+<details>
+<summary><strong>Swaa</strong> · Shopping &amp; auctions</summary>
+
+Built customer-side workflows for product discovery, shopping, and bidding in auctions.
+
+[View Swaa on the App Store][swaa]
+
+</details>
+
+<details>
+<summary><strong>Swaa Vendor</strong> · Merchant operations</summary>
+
+Built the merchant side of the marketplace, with workflows for managing products, inventory, and customer orders.
+
+[View Swaa Vendor on the App Store][swaa-vendor]
+
+</details>
+
+<details>
+<summary><strong>Karballa</strong> · Real estate</summary>
+
+Contributed Flutter mobile development to a real estate project.
+
+</details>
+
+### Workforce management
+
+<details>
+<summary><strong>Tamam Attendance</strong> · Employee attendance &amp; time tracking</summary>
+
+Developed employee check-in and check-out, attendance reporting, and time-tracking workflows.
+
+[View Tamam Attendance on the App Store][tamam]
+
+</details>
+
+<details>
+<summary><strong>Tamam Flex</strong> · Temporary workforce attendance</summary>
+
+Worked on attendance flows for temporary workers, with sign-in through accounts assigned by a company administrator.
+
+</details>
+
+## Engineering toolkit
+
+| Area | Tools and practices |
+| --- | --- |
+| Mobile & architecture | Flutter, Dart, Clean Architecture, BLoC/Cubit, Riverpod |
+| Integrations | Firebase, REST APIs, payment gateways, native iOS CallKit |
+| Quality & release | Unit, widget, and integration tests, GitLab CI, App Store and Google Play releases |
+| Team delivery | Code reviews, pairing with junior developers, collaboration with design, backend, and QA |
+
+## Public Flutter code
+
+- **[Daily Wash Client][daily-wash]** · Customer app for laundry pickup and delivery.
+- **[Quokka Mesh][quokka]** · Flutter app with card and chat flows.
+- **[Balanced Meal][balanced-meal]** · Flutter app for calculating meal calories.
+
+[Browse all public repositories][repositories]
+
+[portfolio]: https://abdallah-mohsen-jet.vercel.app/
+[linkedin]: https://www.linkedin.com/in/abdallah-mohsen-112329363/
+[email]: mailto:abdallahmohsen144@gmail.com
+[snapcalls]: https://apps.apple.com/sa/app/snapcalls/id6757955965
+[hospedale]: https://apps.apple.com/vn/app/hospedale/id6775408452
+[hospedale-provider]: https://apps.apple.com/ng/app/hospedale-provider/id6804744644
+[swaa]: https://apps.apple.com/vn/app/%D8%B3%D9%88%D8%A7/id6806634005
+[swaa-vendor]: https://apps.apple.com/eg/app/%D8%B3%D9%88%D8%A7-%D8%A7%D9%84%D8%A8%D8%A7%D8%A6%D8%B9/id6813179729
+[tamam]: https://apps.apple.com/de/app/tamam-attendance/id6775738802
+[daily-wash]: https://github.com/AbdallahMohsen22/daily_wash_client
+[quokka]: https://github.com/AbdallahMohsen22/quakka_mesh
+[balanced-meal]: https://github.com/AbdallahMohsen22/balanced_meal_app
+[repositories]: https://github.com/AbdallahMohsen22?tab=repositories
