@@ -10,7 +10,7 @@ I’m a mobile engineer based in Egypt with 4+ years of experience building and 
 
 [Portfolio][portfolio] · [LinkedIn][linkedin] · [Email][email]
 
-[Featured apps](#featured-apps) · [Engineering toolkit](#engineering-toolkit) · [Public Flutter code](#public-flutter-code)
+[Featured apps](#featured-apps) · [Engineering toolkit](#engineering-toolkit)
 
 ## Featured apps
 
@@ -101,13 +101,6 @@ Worked on attendance flows for temporary workers, with sign-in through accounts 
 | Quality & release | Unit, widget, and integration tests, GitLab CI, App Store and Google Play releases |
 | Team delivery | Code reviews, pairing with junior developers, collaboration with design, backend, and QA |
 
-## Public Flutter code
-
-- **[Daily Wash Client][daily-wash]** · Customer app for laundry pickup and delivery.
-- **[Quokka Mesh][quokka]** · Flutter app with card and chat flows.
-- **[Balanced Meal][balanced-meal]** · Flutter app for calculating meal calories.
-
-[Browse all public repositories][repositories]
 
 [portfolio]: https://abdallah-mohsen-jet.vercel.app/
 [linkedin]: https://www.linkedin.com/in/abdallah-mohsen-112329363/
@@ -118,7 +111,3 @@ Worked on attendance flows for temporary workers, with sign-in through accounts 
 [swaa]: https://apps.apple.com/vn/app/%D8%B3%D9%88%D8%A7/id6806634005
 [swaa-vendor]: https://apps.apple.com/eg/app/%D8%B3%D9%88%D8%A7-%D8%A7%D9%84%D8%A8%D8%A7%D8%A6%D8%B9/id6813179729
 [tamam]: https://apps.apple.com/de/app/tamam-attendance/id6775738802
-[daily-wash]: https://github.com/AbdallahMohsen22/daily_wash_client
-[quokka]: https://github.com/AbdallahMohsen22/quakka_mesh
-[balanced-meal]: https://github.com/AbdallahMohsen22/balanced_meal_app
-[repositories]: https://github.com/AbdallahMohsen22?tab=repositories
